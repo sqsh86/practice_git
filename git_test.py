@@ -9,7 +9,12 @@ def hello_world():
 def hello_git():
     print 'Hello git.'
 
+#this is use ubuntu input
+def hello_ubuntu():
+    print 'Hello ubuntu'
+
 if __name__ == '__main__':
     hello_world()
     hello_git()
     print 'test branch.'
+    print('ok')
